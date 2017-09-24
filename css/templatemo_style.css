@@ -322,7 +322,7 @@ h2.resp-accordion	{ color: #ffffff; }
 	.templatemo_bordergapborder	{ padding: 0px; margin: 0px; }
 	.templatemo_graybg	{height: 397px; }
 	.templatemo_col37	{ float: left; width: 37.5%; }
-	.templatemo_col50	{ float: left; width: 100%; position: relative; }
+	.templatemo_col50	{ float: left; width: 50%; position: relative; }
 	.templatemo_form { padding: 5px 0px; }
 	.templatemo_form textarea { height: 120px; }
 	.templatemo_address { font-size: 12px; }
